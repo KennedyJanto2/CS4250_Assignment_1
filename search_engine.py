@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Kennedy Janto
 # FILENAME: search_engine.py
-# SPECIFICATION: description of the program
-# FOR: CS 4250- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# SPECIFICATION: This program takes a csv file in and prints out the precision and recall of the given document and query
+# FOR: CS 4250 - Assignment #1
+# TIME SPENT: 1 hour
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard arrays
